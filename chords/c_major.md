@@ -1,5 +1,4 @@
 ---
-title: "C Major Chords"
 permalink: /my-chord-book/c-major/
 ---
 # C Major Chords
@@ -9,7 +8,7 @@ permalink: /my-chord-book/c-major/
 <div id="chart"></div>
 
 <!--load umd script -->
-<script src="https://omnibrain.github.io/svguitar/js/svguitar.umd.js"></script>
+<script src="https://voellmy.gitlab.io/svguitar/js/svguitar.umd.js"></script>
 
 <script>
   // initialize the chart
