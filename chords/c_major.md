@@ -25,7 +25,8 @@ permalink: /my-chord-book/c-major/
         [4, 2, '2'],
         [5, 3, '3'],
         [6, 'x']
-      ]
+      ],
+      barres: []
     })
     .configure({
       orientation: 'horizontal',
