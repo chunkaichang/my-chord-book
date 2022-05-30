@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "C Major Chords"
 permalink: /my-chord-book/c-major/
 ---
