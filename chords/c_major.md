@@ -1,5 +1,5 @@
 ---
-permalink: /my-chord-book/c-major/
+permalink: /chords/c-major/
 ---
 # C Major Chords
 
