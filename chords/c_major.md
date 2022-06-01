@@ -3,14 +3,14 @@ permalink: /chords/c-major/
 common_script: chords_common.html
 chord_factory: chord_factory.html
 ---
-{% include_relative page.common_script %}
+{% include_relative {{ page.common_script }} %}
 
 # C Major Chords
 - [C](#c)
 
 ## C
 
-{% include_relative page.chord_factory
+{% include_relative {{ page.chord_factory }}
    name="chart"
    chord="
     {
