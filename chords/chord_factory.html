@@ -1,0 +1,11 @@
+<!--container of the chart-->
+<div id="{{ include.name }}">
+</div>
+<script>
+  var chart = new svguitar.SVGuitarChord('#{{ include.name }}')
+    .chord({{ include.chord }})
+    .configure({
+      orientation: 'horizontal',
+    })
+    .draw()
+</script>
